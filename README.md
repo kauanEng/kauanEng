@@ -1,10 +1,19 @@
 <h2 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Kauan 👨‍💻</h2>
 
 <p align='center'>
-  A web developer and mobile from Rio Grande do Sul, Brazil.
+  A mobile and web developer from Rio Grande do Sul, Brazil.
 </p>
 
-
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/kauan-santos-77a9411a1/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/kauan.santoss26/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 <p align='center'>
   <p align='center'>
   👨‍💻 Code editor<br/><br/>
@@ -38,16 +47,9 @@
   <img src="https://img.shields.io/badge/ReactNative-0095D5?&style=for-the-badge&logo=ReactNative&logoColor=white" />
 </p>
 
-### Contact:
- <div>
+
    
-      <a href="https://www.linkedin.com/in/kauan-santos-77a9411a1/"><img align="left" alt="Kauan LinkedIn" target="_blank"  width="50px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg">
-    
-      <a href="mailto:kauansantos83@gmail.com"><img align="left" alt="Kauan Santos Email" target="_blank"  width="50px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg">
-    
-      <a href="https://wa.me/5551996961107"><img align="left" alt="Kauan Santos Whats-App"  target="_blank" width="50px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/whatsapp.svg">
-        
- </div>
+
 
 
 
